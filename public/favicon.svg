@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="brushGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a4a4a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c2c2c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- 墨竹叶子造型 - 代表田园的清雅 -->
+  <path d="M50 85 Q30 60 35 35 Q40 50 50 45 Q60 50 65 35 Q70 60 50 85" 
+        fill="url(#brushGradient)" />
+  <path d="M50 70 Q35 55 40 30 Q45 45 50 40 Q55 45 60 30 Q65 55 50 70" 
+        fill="#3d3d3d" transform="translate(-15, 5) rotate(-30, 50, 50)" />
+  <path d="M50 70 Q35 55 40 30 Q45 45 50 40 Q55 45 60 30 Q65 55 50 70" 
+        fill="#3d3d3d" transform="translate(15, 5) rotate(30, 50, 50)" />
+  <!-- 底部泥土 -->
+  <ellipse cx="50" cy="90" rx="20" ry="5" fill="#8b7355"/>
+</svg>

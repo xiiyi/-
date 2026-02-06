@@ -1,0 +1,8 @@
+
+{
+  "name": "四时田园杂兴 - 沉浸式古诗学习",
+  "description": "基于范成大名篇设计的K12游戏化学习应用，让学生在水墨风意境中体验宋代农村生活与古诗内涵。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
